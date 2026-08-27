@@ -1,7 +1,7 @@
 import { portfolioData } from "@/data/portfolioData";
 import modalData from "@/data/sections/extraInfoModal.json";
 import { AnimatePresence, motion } from "framer-motion";
-import { X } from "lucide-react";
+import { ArrowLeft, X } from "lucide-react";
 import Image from "next/image";
 import { Dispatch, SetStateAction } from "react";
 
@@ -35,6 +35,15 @@ const ExtraInfoModal = ({
             className="relative bg-background border border-border rounded-2xl p-6 md:p-8 max-w-3xl w-full max-h-[90vh] overflow-y-auto shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
+            {/* Botón volver (mobile) */}
+            <button
+              onClick={() => setShowPersonalModal(false)}
+              className="absolute top-4 left-4 md:hidden p-2 rounded-full hover:bg-muted transition-colors"
+              aria-label={modalData.ariaLabelBack}
+            >
+              <ArrowLeft className="w-5 h-5 text-foreground" />
+            </button>
+
             {/* Botón cerrar */}
             <button
               onClick={() => setShowPersonalModal(false)}
@@ -48,7 +57,7 @@ const ExtraInfoModal = ({
             <div className="flex flex-col md:flex-row gap-6 items-start">
               <div className="relative w-full md:w-1/3 aspect-[3/4] rounded-xl overflow-hidden bg-muted">
                 <Image
-                  src="/assets/misFotos/PERSONAL_INFO.jpg"
+                  src="/assets/misFotos/ExtraInfoPicture.png"
                   alt="Foto personal"
                   fill
                   className="object-cover"

@@ -9,5 +9,6 @@
     "location": "La Habana, Cuba",
     "languages": "Español, Inglés"
   },
-  "ariaLabelClose": "Cerrar modal"
+  "ariaLabelClose": "Cerrar modal",
+  "ariaLabelBack": "Volver atrás"
 }
