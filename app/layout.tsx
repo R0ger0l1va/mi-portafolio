@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MI PORTAFOLIO",
+  title: "Roger Oliva Portafolio",
   description: "Portafolio personal de proyectos y experiencia profesional.",
 };
 
