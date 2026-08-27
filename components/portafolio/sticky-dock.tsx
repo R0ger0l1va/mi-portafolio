@@ -25,7 +25,7 @@ export function StickyDock() {
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -100 }}
           transition={{ type: "spring", stiffness: 200, damping: 20 }}
-          className="fixed top-4 left-0 right-0 z-50 flex justify-center pointer-events-none"
+          className="fixed top-4 left-0 right-0 z-50 hidden sm:flex justify-center pointer-events-none"
         >
           <div className="pointer-events-auto">
             <DockDemo />

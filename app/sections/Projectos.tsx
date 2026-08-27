@@ -160,7 +160,7 @@ function ProjectCard({
         <div className="relative bg-linear-to-br from-muted/50 to-muted/30 flex items-center justify-center py-4 overflow-hidden">
           {project.type === "mobile" ? (
             <motion.div
-              className="flex items-end justify-center gap-4 px-4"
+              className="flex items-end justify-center gap-4 pl-9"
               whileHover={{
                 cursor: "pointer",
                 scale: 1.08,
