@@ -1,0 +1,29 @@
+{
+  "title": "Experiencia",
+  "experiences": [
+    {
+      "type": "work",
+      "titles": ["Programador Frontend"],
+      "company": "Alsoftpro",
+      "period": "2026 - Presente",
+      "description": "Integrante del equipo de frontend encargado de la mejora continua del sistema de gestión comercial actualmente en producción. Desarrollo aplicaciones web escalables con React, Next.js y Node.js, implementando arquitecturas serverless y optimizaciones de rendimiento.",
+      "achievements": []
+    },
+    {
+      "type": "work",
+      "titles": ["Programador Frontend", "Programador Mobile"],
+      "company": "Medialitic",
+      "period": "2026 - presente",
+      "description": "Integrante de equipos de desarrollo para la creación de sistemas de gestión turística, brindando soluciones web y móviles a clientes corporativos. Asimismo, responsable de la evolución y mantenimiento de aplicaciones móviles para proyectos en producción, con un enfoque constante en la optimización del rendimiento y la experiencia de usuario (UX).",
+      "achievements": ["Desarrollo de aplicaciones empresariales"]
+    },
+    {
+      "type": "education",
+      "titles": ["Ingeniero Informático"],
+      "company": "Universidad Tecnologica de la Habana (CUJAE)",
+      "period": "2023 - 2026",
+      "description": "Especialización en desarrollo de software y arquitectura de sistemas. Proyecto de tesis enfocado en aplicaciones web escalables.",
+      "achievements": ["Cujae Game Jam 2025"]
+    }
+  ]
+}

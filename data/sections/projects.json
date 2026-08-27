@@ -1,0 +1,95 @@
+{
+  "title": "Proyectos Destacados",
+  "tabs": {
+    "all": "Todos",
+    "web": "Web",
+    "mobile": "Mobile"
+  },
+  "buttons": {
+    "code": "Código",
+    "demo": "Demo"
+  },
+  "ariaLabels": {
+    "closeLightbox": "Cerrar visor de imágenes",
+    "prevImage": "Imagen anterior",
+    "nextImage": "Siguiente imagen",
+    "goToImage": "Ir a imagen"
+  },
+  "projects": [
+    {
+      "title": "SunTravels",
+      "date": "August 2025 - April 2026",
+      "description": "Plataforma web completa de SunTravels, agencia de viajes especializada en Cuba. Incluye landing page i18n (es/en) con catálogo de destinos, servicios, tours, reservas con OpenPay, blog, testimonios y formulario de solicitud, además de un backoffice administrativo para la gestión de reservas, contenido y operaciones.",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "next-intl",
+        "Radix UI",
+        "Framer Motion",
+        "C#",
+        ".Net"
+      ],
+      "images": [
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1780604763/Suntravel_batjk2.png",
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1780690635/descargaSUNTRAVEL_mskpme.png"
+      ],
+      "github": "https://github.com/medialityc",
+      "demo": "",
+      "type": "web"
+    },
+    {
+      "title": "DConceptos App",
+      "date": "April 2026 - Present",
+      "description": "Aplicación móvil para la gestión de cotizaciones y proyectos arquitectónicos: clientes crean solicitudes, técnicos inspeccionan y ajustan los datos, y se generan prefacturas y entregables. Incluye chat por proyecto, fases, especialidades y sincronización en la nube.",
+      "images": [
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1780687158/screenshot_ubvvga.png"
+      ],
+      "tags": ["React Native", ".NET", "C#", "Expo"],
+      "github": "https://github.com/medialityc",
+      "demo": "",
+      "type": "mobile"
+    },
+    {
+      "title": "Sistema Gestor de Expedientes eCTD",
+      "description": "Sistema centralizado de gestión de expedientes regulatorios (eCTD) para la industria biofarmacéutica cubana. Automatiza la consolidación, trazabilidad y control de versiones de dossiers bajo estándares ICH. Incluye gestión de plantillas documentales y estructurales, integración con el Sistema Gestor de Documentación (SGD) y exportación de expedientes en ZIP, garantizando soberanía tecnológica y cumplimiento normativo (CECMED, FDA, EMA).",
+      "images": [
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1780933592/eCTD_System_dxlvaq.png"
+      ],
+      "tags": [
+        "Next.js",
+        "NestJS",
+        "TypeScript",
+        "PostgreSQL",
+        "MinIO",
+        "TailwindCSS",
+        "Docker"
+      ],
+      "demo": "",
+      "type": "web"
+    },
+    {
+      "title": "ALCOM",
+      "date": "April 2026 - Present",
+      "description": "Sistema de gestión comercial para la empresa de aguas de La Habana. Desarrollado con React, TypeScript, Vite, MobX y Material UI, permite la gestión bancaria, facturación, contratación de clientes, operaciones comerciales y reportes con dashboards interactivos.",
+      "images": [
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1781294764/ALCOMFOTO_nemqxh.png"
+      ],
+      "github": "https://github.com/alsoftpro",
+      "tags": ["React", "TypeScript", "MobX", "Vite", "Django", "Postgresql"],
+      "type": "web"
+    },
+    {
+      "title": "Biocu App",
+      "description": "Plataforma móvil integral para la gestión y conciencia ambiental en Cuba. Desarrollada con Flutter y NestJS, permite a los ciudadanos reportar incidencias medioambientales en tiempo real, gestionar las solicitudes a través de una API robusta y acceder a contenido educativo actualizado sobre las normativas ambientales nacionales.",
+      "images": [
+        "https://res.cloudinary.com/infwebcujae/image/upload/v1780936543/BiocuLogin_uemlvz.jpg"
+      ],
+      "tags": ["Flutter", "Dart", "NestJs"],
+      "demo": "",
+      "github": "https://github.com/AndyCG03/biocu.git",
+      "type": "mobile"
+    }
+  ]
+}

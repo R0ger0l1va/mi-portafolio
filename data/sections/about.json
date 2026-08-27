@@ -1,0 +1,33 @@
+{
+  "title": "Sobre mí",
+  "sectionTag": "Quién soy",
+  "highlights": [
+    {
+      "iconKey": "Code2",
+      "title": "Arquitectura & Código Limpio",
+      "description": "Desarrollo con Next.js y React priorizando componentes reutilizables, tipado estricto y mantenibilidad a largo plazo."
+    },
+    {
+      "iconKey": "Rocket",
+      "title": "Rendimiento & UX",
+      "description": "Interfaces optimizadas, accesibles y centradas en el usuario, garantizando experiencias fluidas en web y móvil."
+    },
+    {
+      "iconKey": "Users",
+      "title": "Colaboración Ágil",
+      "description": "Alta capacidad de adaptación e integración en equipos multidisciplinarios, con enfoque en entregas continuas y documentadas."
+    },
+    {
+      "iconKey": "Zap",
+      "title": "Evolución Técnica",
+      "description": "Aprendizaje constante que integra principios de UX/UI y nuevas tecnologías para resolver desafíos reales con impacto."
+    }
+  ],
+  "badges": [
+    "💡 Software Engineering",
+    "⚡ Problem Solver",
+    "🚀 Full-Stack Dev"
+  ],
+  "readMore": "Leer más",
+  "readLess": "Ver menos"
+}

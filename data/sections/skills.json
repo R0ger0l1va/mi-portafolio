@@ -1,0 +1,140 @@
+{
+  "title": "Skills & Tecnologías",
+  "subtitle": "Stack tecnológico completo para desarrollo full-stack moderno",
+  "categories": [
+    {
+      "title": "Frontend",
+      "iconKey": "Code2",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Next.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+          "darkInvert": true
+        },
+        {
+          "name": "Vue",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Styling",
+      "iconKey": "Palette",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Framer Motion",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg",
+          "darkInvert": true
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "iconKey": "Server",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        },
+        {
+          "name": "Express",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+          "darkInvert": true
+        },
+        {
+          "name": "NestJS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+        },
+        {
+          "name": "TypeORM",
+          "icon": "https://cdn.simpleicons.org/typeorm"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "iconKey": "Database",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "PostgreSQL",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "Prisma",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Mobile",
+      "iconKey": "Smartphone",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "React Native",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Expo",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg",
+          "darkInvert": true
+        }
+      ]
+    },
+    {
+      "title": "Tools & DevOps",
+      "iconKey": "Wrench",
+      "colSpan": "md:col-span-1",
+      "skills": [
+        {
+          "name": "Git",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        },
+        {
+          "name": "Docker",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        },
+        {
+          "name": "VS Code",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        },
+        {
+          "name": "Figma",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        },
+        {
+          "name": "Postman",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+        }
+      ]
+    }
+  ]
+}

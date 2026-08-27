@@ -1,0 +1,13 @@
+{
+  "title": "Más sobre mí",
+  "fallbackBio": "Aquí puedes escribir tu descripción personal, hobbies, filosofía de trabajo o lo que quieras compartir con tus visitantes.",
+  "labels": {
+    "location": "Ubicación",
+    "languages": "Idiomas"
+  },
+  "values": {
+    "location": "La Habana, Cuba",
+    "languages": "Español, Inglés"
+  },
+  "ariaLabelClose": "Cerrar modal"
+}

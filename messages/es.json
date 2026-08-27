@@ -1,0 +1,306 @@
+{
+  "personal": {
+    "name": "Roger Oliva",
+    "generalBio": "Soy Roger Oliva Rodríguez, desarrollador fullstack especializado en desarrollo frontend y estudiante de cuarto año de Ingeniería Informática, con dos años de experiencia práctica creando interfaces web y móviles que equilibran rendimiento, arquitectura limpia y excelencia visual. Guiado por el aprendizaje continuo y la integración autodidacta de principios UX/UI, me destaco por mi enfoque riguroso en el cierre de proyectos, mi alta adaptabilidad a entornos ágiles y mi facilidad para colaborar en equipos multidisciplinarios. Mi objetivo es unirme a ecosistemas innovadores donde pueda potenciar mi dominio de React, Next.js y TypeScript para construir soluciones escalables y mantenibles, entregando siempre código de calidad y experiencias digitales sólidas que generen impacto real en el negocio y el usuario final.",
+    "bio": "Desarrollador especializado en crear experiencias digitales intuitivas y performantes. Apasionado por React, Next.js y el diseño centrado en el usuario."
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "titles": [
+      "Desarrollador Fullstack",
+      "Ingeniero de Software",
+      "Diseñador Web",
+      "Desarrollador Móvil"
+    ],
+    "quote": "UN GRAN SOFTWARE CONLLEVA UN GRAN CÓDIGO",
+    "hoverText": "¿Quieres saber más sobre mí?",
+    "ariaLabelAvatar": "Ver información personal",
+    "ariaLabelNext": "Ir a la siguiente sección"
+  },
+  "nav": {
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "sectionTag": "Quién soy",
+    "readMore": "Leer más",
+    "readLess": "Ver menos",
+    "badges": [
+      "💡 Software Engineering",
+      "⚡ Problem Solver",
+      "🚀 Full-Stack Dev"
+    ],
+    "highlights": [
+      {
+        "iconKey": "Code2",
+        "title": "Arquitectura & Código Limpio",
+        "description": "Desarrollo con Next.js y React priorizando componentes reutilizables, tipado estricto y mantenibilidad a largo plazo."
+      },
+      {
+        "iconKey": "Rocket",
+        "title": "Rendimiento & UX",
+        "description": "Interfaces optimizadas, accesibles y centradas en el usuario, garantizando experiencias fluidas en web y móvil."
+      },
+      {
+        "iconKey": "Users",
+        "title": "Colaboración Ágil",
+        "description": "Alta capacidad de adaptación e integración en equipos multidisciplinarios, con enfoque en entregas continuas y documentadas."
+      },
+      {
+        "iconKey": "Zap",
+        "title": "Evolución Técnica",
+        "description": "Aprendizaje constante que integra principios de UX/UI y nuevas tecnologías para resolver desafíos reales con impacto."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Tecnologías",
+    "subtitle": "Stack tecnológico completo para desarrollo full-stack moderno",
+    "categories": [
+      {
+        "title": "Frontend",
+        "iconKey": "Code2",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "React", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+          { "name": "Next.js", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg", "darkInvert": true },
+          { "name": "Vue", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" },
+          { "name": "TypeScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+          { "name": "JavaScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" }
+        ]
+      },
+      {
+        "title": "Styling",
+        "iconKey": "Palette",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "Tailwind CSS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+          { "name": "CSS3", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
+          { "name": "Framer Motion", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg", "darkInvert": true }
+        ]
+      },
+      {
+        "title": "Backend",
+        "iconKey": "Server",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "Node.js", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+          { "name": "Express", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg", "darkInvert": true },
+          { "name": "NestJS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" },
+          { "name": "TypeORM", "icon": "https://cdn.simpleicons.org/typeorm" }
+        ]
+      },
+      {
+        "title": "Bases de Datos",
+        "iconKey": "Database",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "PostgreSQL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
+          { "name": "MongoDB", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
+          { "name": "Prisma", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" }
+        ]
+      },
+      {
+        "title": "Móvil",
+        "iconKey": "Smartphone",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "React Native", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+          { "name": "Expo", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg", "darkInvert": true }
+        ]
+      },
+      {
+        "title": "Herramientas & DevOps",
+        "iconKey": "Wrench",
+        "colSpan": "md:col-span-1",
+        "skills": [
+          { "name": "Git", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
+          { "name": "Docker", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" },
+          { "name": "VS Code", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
+          { "name": "Figma", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
+          { "name": "Postman", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "tabs": {
+      "all": "Todos",
+      "web": "Web",
+      "mobile": "Mobile"
+    },
+    "buttons": {
+      "code": "Código",
+      "demo": "Demo"
+    },
+    "ariaLabels": {
+      "closeLightbox": "Cerrar visor de imágenes",
+      "prevImage": "Imagen anterior",
+      "nextImage": "Siguiente imagen",
+      "goToImage": "Ir a imagen"
+    },
+    "projectsList": [
+      {
+        "title": "SunTravels",
+        "date": "Agosto 2025 - Abril 2026",
+        "description": "Plataforma web completa de SunTravels, agencia de viajes especializada en Cuba. Incluye landing page i18n (es/en) con catálogo de destinos, servicios, tours, reservas con OpenPay, blog, testimonios y formulario de solicitud, además de un backoffice administrativo para la gestión de reservas, contenido y operaciones.",
+        "tags": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "TailwindCSS",
+          "next-intl",
+          "Radix UI",
+          "Framer Motion",
+          "C#",
+          ".Net"
+        ],
+        "images": [
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1780604763/Suntravel_batjk2.png",
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1780690635/descargaSUNTRAVEL_mskpme.png"
+        ],
+        "github": "https://github.com/medialityc",
+        "demo": "",
+        "type": "web"
+      },
+      {
+        "title": "DConceptos App",
+        "date": "Abril 2026 - Presente",
+        "description": "Aplicación móvil para la gestión de cotizaciones y proyectos arquitectónicos: clientes crean solicitudes, técnicos inspeccionan y ajustan los datos, y se generan prefacturas y entregables. Incluye chat por proyecto, fases, especialidades y sincronización en la nube.",
+        "images": [
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1780687158/screenshot_ubvvga.png"
+        ],
+        "tags": ["React Native", ".NET", "C#", "Expo"],
+        "github": "https://github.com/medialityc",
+        "demo": "",
+        "type": "mobile"
+      },
+      {
+        "title": "Sistema Gestor de Expedientes eCTD",
+        "date": "",
+        "description": "Sistema centralizado de gestión de expedientes regulatorios (eCTD) para la industria biofarmacéutica cubana. Automatiza la consolidación, trazabilidad y control de versiones de dossiers bajo estándares ICH. Incluye gestión de plantillas documentales y estructurales, integración con el Sistema Gestor de Documentación (SGD) y exportación de expedientes en ZIP, garantizando soberanía tecnológica y cumplimiento normativo (CECMED, FDA, EMA).",
+        "images": [
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1780933592/eCTD_System_dxlvaq.png"
+        ],
+        "tags": [
+          "Next.js",
+          "NestJS",
+          "TypeScript",
+          "PostgreSQL",
+          "MinIO",
+          "TailwindCSS",
+          "Docker"
+        ],
+        "github": "",
+        "demo": "",
+        "type": "web"
+      },
+      {
+        "title": "ALCOM",
+        "date": "Abril 2026 - Presente",
+        "description": "Sistema de gestión comercial para la empresa de aguas de La Habana. Desarrollado con React, TypeScript, Vite, MobX y Material UI, permite la gestión bancaria, facturación, contratación de clientes, operaciones comerciales y reportes con dashboards interactivos.",
+        "images": [
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1781294764/ALCOMFOTO_nemqxh.png"
+        ],
+        "github": "https://github.com/alsoftpro",
+        "tags": ["React", "TypeScript", "MobX", "Vite", "Django", "Postgresql"],
+        "demo": "",
+        "type": "web"
+      },
+      {
+        "title": "Biocu App",
+        "date": "",
+        "description": "Plataforma móvil integral para la gestión y conciencia ambiental en Cuba. Desarrollada con Flutter y NestJS, permite a los ciudadanos reportar incidencias medioambientales en tiempo real, gestionar las solicitudes a través de una API robusta y acceder a contenido educativo actualizado sobre las normativas ambientales nacionales.",
+        "images": [
+          "https://res.cloudinary.com/infwebcujae/image/upload/v1780936543/BiocuLogin_uemlvz.jpg"
+        ],
+        "tags": ["Flutter", "Dart", "NestJs"],
+        "github": "https://github.com/AndyCG03/biocu.git",
+        "demo": "",
+        "type": "mobile"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experiencia",
+    "experiencesList": [
+      {
+        "type": "work",
+        "titles": ["Programador Frontend"],
+        "company": "Alsoftpro",
+        "period": "2026 - Presente",
+        "description": "Integrante del equipo de frontend encargado de la mejora continua del sistema de gestión comercial actualmente en producción. Desarrollo aplicaciones web escalables con React, Next.js y Node.js, implementando arquitecturas serverless y optimizaciones de rendimiento.",
+        "achievements": []
+      },
+      {
+        "type": "work",
+        "titles": ["Programador Frontend", "Programador Mobile"],
+        "company": "Medialitic",
+        "period": "2026 - presente",
+        "description": "Integrante de equipos de desarrollo para la creación de sistemas de gestión turística, brindando soluciones web y móviles a clientes corporativos. Asimismo, responsable de la evolución y mantenimiento de aplicaciones móviles para proyectos en producción, con un enfoque constante en la optimización del rendimiento y la experiencia de usuario (UX).",
+        "achievements": ["Desarrollo de aplicaciones empresariales"]
+      },
+      {
+        "type": "education",
+        "titles": ["Ingeniero Informático"],
+        "company": "Universidad Tecnológica de la Habana (CUJAE)",
+        "period": "2023 - 2026",
+        "description": "Especialización en desarrollo de software y arquitectura de sistemas. Proyecto de tesis enfocado en aplicaciones web escalables.",
+        "achievements": ["Cujae Game Jam 2025"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subTitle": "Trabajemos juntos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría escuchar sobre él. No dudes en contactarme para discutir cómo puedo ayudarte.",
+    "labels": {
+      "name": "Nombre",
+      "email": "Email",
+      "message": "Mensaje",
+      "phone": "Teléfono",
+      "whatsapp": "WhatsApp",
+      "location": "Ubicación"
+    },
+    "placeholders": {
+      "name": "Tu nombre",
+      "email": "tu@email.com",
+      "message": "Cuéntame sobre tu proyecto..."
+    },
+    "values": {
+      "email": "rogeroliva44@gmail.com",
+      "phone": "+53 55004714",
+      "whatsappText": "Escríbeme directo",
+      "location": "La Habana, Cuba"
+    },
+    "buttons": {
+      "sending": "Enviando...",
+      "sent": "¡Mensaje Enviado!",
+      "error": "Error. Intenta de nuevo",
+      "default": "Enviar Mensaje"
+    }
+  },
+  "extraInfoModal": {
+    "title": "Más sobre mí",
+    "fallbackBio": "Aquí puedes escribir tu descripción personal, hobbies, filosofía de trabajo o lo que quieras compartir con tus visitantes.",
+    "labels": {
+      "location": "Ubicación",
+      "languages": "Idiomas"
+    },
+    "values": {
+      "location": "La Habana, Cuba",
+      "languages": "Español, Inglés"
+    },
+    "ariaLabelClose": "Cerrar modal"
+  },
+  "footer": {
+    "name": "Roger Oliva",
+    "role": "Full-Stack Developer",
+    "copyright": "Todos los derechos reservados."
+  }
+}

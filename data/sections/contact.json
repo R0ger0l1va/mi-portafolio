@@ -1,0 +1,30 @@
+{
+  "title": "Contacto",
+  "subTitle": "Trabajemos juntos",
+  "description": "¿Tienes un proyecto en mente? Me encantaría escuchar sobre él. No dudes en contactarme para discutir cómo puedo ayudarte.",
+  "labels": {
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "phone": "Teléfono",
+    "whatsapp": "WhatsApp",
+    "location": "Ubicación"
+  },
+  "placeholders": {
+    "name": "Tu nombre",
+    "email": "tu@email.com",
+    "message": "Cuéntame sobre tu proyecto..."
+  },
+  "values": {
+    "email": "rogeroliva44@gmail.com",
+    "phone": "+53 55004714",
+    "whatsappText": "Escríbeme directo",
+    "location": "La Habana, Cuba"
+  },
+  "buttons": {
+    "sending": "Enviando...",
+    "sent": "¡Mensaje Enviado!",
+    "error": "Error. Intenta de nuevo",
+    "default": "Enviar Mensaje"
+  }
+}
